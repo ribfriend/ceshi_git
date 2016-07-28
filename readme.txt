@@ -12,3 +12,5 @@ ceshiceshi
 ceshiceshi20160728
 
 git clone git@github.com:ribfriend/ceshi.git
+
+git clone git@github.com:ribfriend/ceshi.git
